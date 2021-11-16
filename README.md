@@ -1,7 +1,6 @@
 <h2> Hi 👋, I'm Mikael! </h2>
 
-
-I'm currently a transportation digital twin developer 💥 and I have an MSc in Mechanical Engineering from Aalto University with a strong focus in computer science. 
+I'm currently a transportation digital twin developer 💥 and I just received my MSc degree in Mechanical Engineering from Aalto University with a strong focus in computer science. 
 
 I spend most of my time coding blockchain applications such as NFT launches! In love with smart contract development and solidity.
 
@@ -21,7 +20,7 @@ I spend most of my time coding blockchain applications such as NFT launches! In 
 **Languages, Tools and Interests:**   
 
  - Ethereum / Polygon / BSC / Bitcoin
- - Smart Contract Development / Testing / Auditing
+ - Smart Contract Development / Testing
  - ERC 20 / ERC 777 / ERC 721 / ERC 1155 / EIP 2612
  - Solidity
  - Brownie / Openzeppelin
