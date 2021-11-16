@@ -21,7 +21,7 @@ I spend most of my time coding blockchain applications such as NFT launches! Pas
 
  - Ethereum / Polygon / BSC / Bitcoin
  - Smart Contract Development / Testing
- - ERC 20 / ERC 777 / ERC 721 / ERC 1155 / EIP 2612
+ - ERC 20 / ERC 721 / ERC 1155
  - Solidity
  - Brownie / Openzeppelin
  - Deep Learning, Machine Learning & Artificial Intelligence
