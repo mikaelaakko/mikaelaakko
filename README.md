@@ -2,7 +2,7 @@
 
 I'm currently a transportation digital twin developer 💥 and I just received my MSc degree in Mechanical Engineering from Aalto University with a strong focus in computer science. 
 
-I spend most of my time coding blockchain applications such as NFT launches! In love with smart contract development and solidity.
+I spend most of my time coding blockchain applications such as NFT launches! Passionate about smart contract development and solidity.
 
 
 
