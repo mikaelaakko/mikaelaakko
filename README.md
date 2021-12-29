@@ -15,7 +15,7 @@ I spend most of my time coding blockchain applications such as NFT launches! Pas
 
 - 📚 I'm currently learning everything about Solidity and Ethereum Virtual Machine
 - 🧬 Passion for everything related to Blockchain
-- 🔥 Love Python and Brownie
+- 🔥 Python and Brownie
   
 **Languages, Tools and Interests:**   
 
