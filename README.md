@@ -1,6 +1,6 @@
 <h2> Hi 👋, I'm Mikael! </h2>
 
-I'm currently a transportation digital twin developer 💥 and I just received my MSc degree in Mechanical Engineering from Aalto University with a strong focus in computer science. 
+I'm currently a transportation digital twin developer 💥 and I have MSc degree in Mechanical Engineering from Aalto University with a strong focus in computer science. 
 
 I spend most of my time coding blockchain applications such as NFT launches! Passionate about smart contract development and solidity.
 
