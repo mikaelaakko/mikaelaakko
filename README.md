@@ -22,6 +22,7 @@ I spend most of my time coding blockchain applications such as NFT launches! Pas
  - Ethereum / Polygon / BSC / Bitcoin
  - Smart Contract Development / Testing
  - ERC-20 / ERC-721 / ERC-1155
+ - NFT Marketplace
  - Yield Farming / Staking contracts
  - Lending / Borrowing contracts
  - DAOs
