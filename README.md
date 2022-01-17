@@ -9,7 +9,7 @@ I spend most of my time coding blockchain applications such as NFT launches! Pas
 📧 You can reach me at:
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@mikaelaakko-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mikaelaakko)](https://twitter.com/mikaelaakko) [![Linkedin Badge](https://img.shields.io/badge/-Mikael-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-aakko-293303139/) [![Mail Badge](https://img.shields.io/badge/-mikael.aakko-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mikael.aakko@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@maakkoeth-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/maakkoeth)](https://twitter.com/maakkoeth) [![Mail Badge](https://img.shields.io/badge/-mikael.aakko-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mikael.aakko@gmail.com)
 
 **Personal Stuff:**
 
