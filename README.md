@@ -17,7 +17,7 @@ I spend most of my time coding blockchain applications such as NFT launches! Pas
 - 🧬 Passion for everything related to Blockchain
 - 🔥 Python and Brownie
   
-**Languages, Tools and Interests:**   
+**Expertise:**   
 
  - Ethereum / Polygon / BSC / Bitcoin
  - Smart Contract Development / Testing
