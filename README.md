@@ -19,7 +19,7 @@ I spend most of my time coding blockchain applications such as NFTs and DeFi app
   
 **Expertise:**   
 
- - Ethereum / Polygon / BSC / Bitcoin
+ - Ethereum / BSC / Fantom / Avalanche / Polygon
  - Smart Contract Development / Testing
  - ERC-20 / ERC-721 / ERC-1155
  - NFT Marketplace
