@@ -15,7 +15,7 @@ I spend most of my time coding blockchain applications such as NFTs and DeFi app
 
 - 📚 I'm currently learning everything about Solidity and Ethereum Virtual Machine
 - 🧬 Passion for everything related to Blockchain
-- 🔥 Python and Brownie
+- 🔥 Foundry
   
 **Expertise:**   
 
@@ -27,7 +27,7 @@ I spend most of my time coding blockchain applications such as NFTs and DeFi app
  - Lending / Borrowing contracts
  - DAOs
  - Solidity
- - Brownie / Openzeppelin
+ - Foundry / Brownie
  - Deep Learning, Machine Learning & Artificial Intelligence
  - Robotics
 
