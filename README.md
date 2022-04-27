@@ -7,8 +7,8 @@ I spend most of my time coding blockchain applications such as NFTs and DeFi app
   
 **Expertise:**   
 
- - Ethereum / BSC / Fantom / Avalanche / Polygon
- - Smart Contract Development / Testing
+Smart contract development:
+ - EVM compatible chains
  - ERC-20 / ERC-721 / ERC-1155
  - NFT Marketplace
  - Yield Farming / Staking contracts
@@ -16,8 +16,10 @@ I spend most of my time coding blockchain applications such as NFTs and DeFi app
  - DAOs
  - Solidity
  - Foundry / Brownie
+Programming:
  - Deep Learning, Machine Learning & Artificial Intelligence
  - Robotics
+ - Python
 
 
 
