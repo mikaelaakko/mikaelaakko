@@ -9,7 +9,7 @@ I spend most of my time coding blockchain applications such as NFTs and DeFi app
 📧 You can reach me at:
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@maakkoeth-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/maakkoeth)](https://twitter.com/mikaelaakko) [![Mail Badge](https://img.shields.io/badge/-mikael.aakko-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mikael@lohko.io)
+[![Twitter Badge](https://img.shields.io/badge/-@mikaelaakko-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/maakkoeth)](https://twitter.com/mikaelaakko) [![Mail Badge](https://img.shields.io/badge/-mikael-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mikael@lohko.io)
   
 **Expertise:**   
 
