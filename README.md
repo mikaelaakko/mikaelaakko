@@ -16,6 +16,7 @@ Smart contract development:
  - DAOs
  - Solidity
  - Foundry / Brownie
+
 Programming:
  - Deep Learning, Machine Learning & Artificial Intelligence
  - Robotics
