@@ -1,28 +1,47 @@
 <h2> Hi 👋, I'm Mikael! </h2>
 
-I'm currently a smart contract developer 💥 and I have a master's degree in science from Aalto University with a strong focus in computer science. 
+Co-founder and smart contract developer at Lohko.
 
-I spend most of my time coding blockchain applications such as NFTs and DeFi applications! Passionate about smart contract development and solidity.
+Master's degree in science from Aalto University with a strong focus in computer science. 
+
+I spend most of my time coding blockchain applications such as NFTs and DeFi apps!
 
   
-**Expertise:**   
+**Expertise:**  
 
-Smart contract development:
+Blockchain frameworks/languages:
+ - Solidity / Vyper
+ - Foundry / Brownie
+
+Blockchain knowledge:
  - EVM compatible chains
- - ERC-20 / ERC-721 / ERC-1155
+ - Avalanche subnets
+ - Play-To-Earn games
+ - ERC-20 / ERC-721 / ERC-1155 / ERC777
  - NFT Marketplace
  - Yield Farming / Staking contracts
  - Lending / Borrowing contracts
  - DAOs
- - Solidity
- - Foundry / Brownie
+ - DEXs
 
-Programming:
- - Deep Learning, Machine Learning & Artificial Intelligence
- - Robotics
+
+Programming frameworks/languages:
+ - PyTorch, Tensorflow, Scikit-learn & Keras
+ - OpenCV, YOLO, SSD, Faster RCNN
+ - Google Cloud Vision API, Azure Custom Vision
+ - ROS
+ - Jupyter
  - Python
+ - Matlab
 
-
-
+Programming knowledge:
+ - Machine Learning
+ - Artificial Intelligence
+ - Robotics
+ - Deep learning
+ - Transfer learning
+ - Reinforcement learning
+ - Regression
+ 
 
 #
