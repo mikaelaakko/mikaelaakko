@@ -15,6 +15,7 @@ Blockchain frameworks/languages:
 
 Blockchain knowledge:
  - EVM compatible chains
+ - Gasless dApps
  - Avalanche subnets
  - Play-To-Earn games
  - ERC-20 / ERC-721 / ERC-1155 / ERC777
